@@ -16,7 +16,7 @@ window.onscroll = () => {
       });
       let targetLink = document.querySelector('header nav a[href*="' + id + '"]');
       if (targetLink) {
-        targetLink.classList.add('active');
+        targetLink.classList.add('acزtive');
       }
     }
   });
